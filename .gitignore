@@ -1,2 +1,4 @@
 /data
 /venv #pour les envs virtuels
+/models
+*.npy
